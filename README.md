@@ -1,4 +1,4 @@
-Welcome to HealthMate AI
+Welcome to HealthMate AI    
 
 Imagine a healthcare experience where you have the tools to manage your well-being effectively, communicate seamlessly with healthcare professionals, and receive personalized guidance for a healthier life. HealthMate AI brings this vision to reality.
 
