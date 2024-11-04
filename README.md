@@ -28,11 +28,3 @@ Accessibility and Usability: An intuitive and accessible user interface for dive
 
 Regulatory Compliance and Collaboration: Adherence to healthcare standards and regulatory requirements. Collaboration with stakeholders, healthcare professionals, and end-users.
 
-
-Contributors
-
-Marildo Cani 
-
-Sefer Lekloti 
-
-Armand Kala
